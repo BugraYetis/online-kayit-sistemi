@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Online Kayıt Sistemi
+# 📝 Online Kayıt Sistemi
 
 **Online Kayıt · Tıbbi Konferans**
 
